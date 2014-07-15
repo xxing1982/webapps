@@ -1,13 +1,13 @@
 {
-	"name": "node-myboiler",
-	"version": "0.0.1",
+	"name": "math-online",
+	"version": "0.1.0",
 	"engines": {
 		"node": ">= 0.6.0"
 	},
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/iloire/math-race"
+		"url": "https://github.com/xxing1982/webapps"
 	},
 	"dependencies": {
 		"express": ">=4.0.0",
