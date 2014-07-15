@@ -1,0 +1,21 @@
+{
+	"name": "node-myboiler",
+	"version": "0.0.1",
+	"engines": {
+		"node": ">= 0.6.0"
+	},
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iloire/math-race"
+	},
+	"dependencies": {
+		"express": ">=4.0.0",
+		"ejs": ">= 1.0.0",
+		"socket.io": ">=0.8.7",
+        "body-parser": ">=1.0.0",
+        "cookie-parser": ">=1.0.0",
+        "errorhandler": ">=1.0.0",
+        "method-override": ">=1.0.0"
+	}
+}
